@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+.photo {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+video {
+  padding-left: 30%;
+}
